@@ -1,6 +1,6 @@
-# Bird Hero – Intern Challenge
+# Hero – Intern Challenge
 
-Tu objetivo es construir un HERO responsivo para una tienda de pajareros en ≤ 3 h.
+Tu objetivo es construir un HERO responsivo para una tienda.
 
 ## Requisitos
 
@@ -18,5 +18,5 @@ Tu objetivo es construir un HERO responsivo para una tienda de pajareros en ≤ 
 ### Tips
 
 * Tailwind CDN está listo en `index.html`.  
-* Sigue el Figma: <https://www.figma.com/file/abc123/bird-hero>  
+* Sigue el Figma: <https://www.figma.com/design/wE4ehnz2HV1HhaPwfclxL0/Intern-Challenge?node-id=0-1&t=mEBudBjrGRH3thbG-1>  
 * Usa comentarios TODO del código como guía.
